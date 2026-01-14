@@ -166,6 +166,44 @@ const Admin = () => {
                     </div>
                 </div>
 
+                {/* Who For Section */}
+                <div className="card">
+                    <div className="flex justify-between items-center mb-4">
+                        <h3>Kimlər Üçün? (Who For?)</h3>
+                        <button onClick={() => updateContent('who_for.list', [...content.who_for.list, { az: '', en: '' }])} className="btn btn-sm">+ Yeni Maddə</button>
+                    </div>
+                    <div className="grid gap-4">
+                        {content.who_for.list.map((item, index) => (
+                            <div key={index} className="flex gap-2 items-center">
+                                <div className="grid gap-2 w-full">
+                                    <input className="input w-full" placeholder="Mətn (AZ)" value={item.az} onChange={e => updateContent(`who_for.list.${index}.az`, e.target.value)} />
+                                    <input className="input w-full" placeholder="Text (EN)" value={item.en} onChange={e => updateContent(`who_for.list.${index}.en`, e.target.value)} />
+                                </div>
+                                <button onClick={() => updateContent('who_for.list', content.who_for.list.filter((_, i) => i !== index))} className="text-red">X</button>
+                            </div>
+                        ))}
+                    </div>
+                </div>
+
+                {/* Who Not For Section */}
+                <div className="card">
+                    <div className="flex justify-between items-center mb-4">
+                        <h3>Kimlər Üçün Deyil? (Who Not For?)</h3>
+                        <button onClick={() => updateContent('who_not_for.list', [...content.who_not_for.list, { az: '', en: '' }])} className="btn btn-sm">+ Yeni Maddə</button>
+                    </div>
+                    <div className="grid gap-4">
+                        {content.who_not_for.list.map((item, index) => (
+                            <div key={index} className="flex gap-2 items-center">
+                                <div className="grid gap-2 w-full">
+                                    <input className="input w-full" placeholder="Mətn (AZ)" value={item.az} onChange={e => updateContent(`who_not_for.list.${index}.az`, e.target.value)} />
+                                    <input className="input w-full" placeholder="Text (EN)" value={item.en} onChange={e => updateContent(`who_not_for.list.${index}.en`, e.target.value)} />
+                                </div>
+                                <button onClick={() => updateContent('who_not_for.list', content.who_not_for.list.filter((_, i) => i !== index))} className="text-red">X</button>
+                            </div>
+                        ))}
+                    </div>
+                </div>
+
             </div>
 
             <style>{`
