@@ -22,7 +22,7 @@ const Layout = ({ lang, setLang }) => {
     <div className="start-layout">
       <header className="header">
         <div className="container flex items-center justify-between" style={{ height: '100%' }}>
-          <Link to="/" className="logo">AYGUN.</Link>
+          <Link to="/" className="logo">AYGUN.A</Link>
 
           <nav className={`nav ${isMenuOpen ? 'open' : ''}`}>
             {navLinks.map((link) => (
