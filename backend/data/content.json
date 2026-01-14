@@ -1,0 +1,171 @@
+{
+  "home": {
+    "hero": {
+      "az": "Brendivi tnt.neticeye bax",
+      "en": "Elevate Your Brand. See The Results"
+    },
+    "subtext": {
+      "az": "Mən sosial media hesablarınızı idarə edirəm, siz biznesinizi böyüdürsünüz. Strateji, peşəkar və hədəf yönlü.",
+      "en": "I manage your social media, you grow your business. Strategic, professional, and goal-oriented."
+    }
+  },
+  "services": [
+    {
+      "title": {
+        "az": "Tam Hesab İdarəetməsi",
+        "en": "Full Account Management"
+      },
+      "description": {
+        "az": "Gündəlik paylaşımlar, icma ilə əlaqə və strateji planlama. Tam nəzarət.",
+        "en": "Daily posts, community engagement, and strategic planning. Full control."
+      }
+    },
+    {
+      "title": {
+        "az": "Məzmun Strategiyası",
+        "en": "Content Strategy"
+      },
+      "description": {
+        "az": "Hədəf kütləniz üçün hazırlanmış fərdi məzmun yol xəritəsi.",
+        "en": "Tailored content roadmap designed specifically for your target audience."
+      }
+    },
+    {
+      "title": {
+        "az": "Reklam İdarəçiliyi",
+        "en": "Ad Management"
+      },
+      "description": {
+        "az": "Yüksək geri dönüş (ROI) üçün optimallaşdırılmış hədəfli reklam kampaniyaları.",
+        "en": "Targeted ad campaigns optimized for maximizing your ROI."
+      }
+    },
+    {
+      "title": {
+        "az": "Audit və Məsləhət",
+        "en": "Audit & Consulting"
+      },
+      "description": {
+        "az": "Mövcud vəziyyətin dərin təhlili və inkişaf üçün dəqiq plan.",
+        "en": "Deep analysis of current state and a precise roadmap for growth."
+      }
+    },
+    {
+      "title": {
+        "az": "Yeni Xidmət 336475y6",
+        "en": "New Service"
+      },
+      "description": {
+        "az": "...hjdsknlf;g",
+        "en": "..."
+      }
+    }
+  ],
+  "why_choose_me": {
+    "title": {
+      "az": "Niyə Mən?",
+      "en": "Why Me?"
+    },
+    "items": [
+      {
+        "title": {
+          "az": "Dataya Əsaslanan",
+          "en": "Data Driven"
+        },
+        "desc": {
+          "az": "Təxminlərə deyil, rəqəmlərə güvənirəm.",
+          "en": "I rely on numbers, not on guesses."
+        }
+      },
+      {
+        "title": {
+          "az": "Şəffaf İş",
+          "en": "Transparent Work"
+        },
+        "desc": {
+          "az": "Hər addımdan xəbərdar olursunuz.",
+          "en": "You are informed about every step."
+        }
+      },
+      {
+        "title": {
+          "az": "Nəticə Fokuslu",
+          "en": "Result Focused"
+        },
+        "desc": {
+          "az": "Məqsədimiz like yox, satışdır.",
+          "en": "Our goal is sales, not just likes."
+        }
+      },
+      {
+        "title": {
+          "az": "Yeni Səbəb563748956",
+          "en": "New Reason"
+        },
+        "desc": {
+          "az": "",
+          "en": "..."
+        }
+      }
+    ]
+  },
+  "who_for": {
+    "title": {
+      "az": "Kimlər Üçündür?",
+      "en": "Who Is This For?"
+    },
+    "list": [
+      {
+        "az": "Böyüməyə hazır olan bizneslər.",
+        "en": "Businesses ready to scale."
+      },
+      {
+        "az": "Vaxtına dəyər verən sahibkarlar.",
+        "en": "Entrepreneurs who value their time."
+      },
+      {
+        "az": "Keyfiyyətə üstünlük verənlər.",
+        "en": "Those who prioritize quality."
+      }
+    ]
+  },
+  "who_not_for": {
+    "title": {
+      "az": "Kimlər Üçün Deyil?",
+      "en": "Who Is This Not For?"
+    },
+    "list": [
+      {
+        "az": "Ani möcüzə axtaranlar.",
+        "en": "Looking for instant miracles."
+      },
+      {
+        "az": "Mikro-idarəetməni sevənlər.",
+        "en": "Loving micro-management."
+      },
+      {
+        "az": "Keyfiyyətə büdcə ayırmayanlar.",
+        "en": "Not investing in quality."
+      }
+    ]
+  },
+  "contact": {
+    "title": {
+      "az": "Əlaqə",
+      "en": "Contact"
+    },
+    "cta": {
+      "az": "Biznesinizi növbəti səviyyəyə daşıyın.",
+      "en": "Take your business to the next level."
+    },
+    "button_text": {
+      "az": "Müraciət Et",
+      "en": "Get in Touch"
+    },
+    "email": "contact@aygun.com"
+  },
+  "social_links": {
+    "instagram": "https://www.instagram.com/aygn.agayeva?igsh=MThuejhhc3QwMjJvNw==",
+    "whatsapp": "https://wa.me/994500000000"
+  }
+}
